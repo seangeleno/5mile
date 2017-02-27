@@ -1,9 +1,9 @@
 # To install 
 
-'$ git clone [url here]'
+'''$ git clone [url here]'''
 
-'$ cd 6mile'
+'''$ cd 6mile'''
 
-'$ npm install'
+'''$ npm install'''
 
-'$ react-native run-ios'
+'''$ react-native run-ios'''

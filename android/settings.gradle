@@ -1,0 +1,3 @@
+rootProject.name = 'sixmile'
+
+include ':app'
